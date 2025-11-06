@@ -1,7 +1,7 @@
 {
   "name": "Rajesh Nair",
   "tagline": "Software Craftsman \u2192 Lead SDE \u2192 Principal \u2192 (aspiring) Architect | Distributed Systems, Observability, Java",
-  "about": "A software craftsman with a vision to develop good quality software. I have an artistic approach to make work special when it comes to delivering good quality and on time products. I believe in good design for the craft which makes development easier. Observation and analysis are core to my work. Experience across backend (J2EE, C/C++) and frontend (AngularJS, JavaScript), on Windows and Linux. Hands-on with deployments and troubleshooting on tough platforms. From design to development and leading people, challenges have been a catalyst for me to grow. I aim to keep growing with great teams and elevate my thinking to the next level.",
+  "about": "Engineering leader focused on distributed systems, runtime observability, and performance at scale. I design for clarity—instrumentation-first services with traceability, metrics, and log correlation so teams can reason about behavior in production. Experience spans Java/Spring, C/C++, and platform work across Linux/AIX. I enjoy turning product goals into scalable architectures, building dashboards that expose bottlenecks, and driving reliability through SLOs and continuous feedback loops.",
   "highlights": [
     "Leading Development Teams",
     "Systems Design",
@@ -256,7 +256,7 @@
       "notes": "Tree plantation, blood donation camp, mimicry."
     }
   ],
-  "email": "your.email@example.com",
+  "email": "rajeshnair2490@gmail.com",
   "location": "Pune, Maharashtra, India",
   "open_to": "Architect roles, distributed systems, microservices"
 }
