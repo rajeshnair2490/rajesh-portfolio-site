@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Rajesh Nair — Portfolio</title>
+    <meta name="description" content="Portfolio of Rajesh Nair: microservices, distributed systems, Java, Spring Boot, observability." />
+
+    <!-- Inter font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header container">
+      <div class="brand">
+        <img class="avatar" src="./assets/avatar.png" alt="Avatar" onerror="this.style.display='none'">
+        <div>
+          <h1 id="name">Rajesh Nair</h1>
+          <p id="tagline" class="muted">Java Lead → Architect | Microservices & Observability</p>
+          <div class="chips" id="highlights"></div>
+        </div>
+      </div>
+      <nav class="topnav">
+        <a href="#about">About</a>
+        <a href="#experience">Experience</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#education">Education</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main class="container">
+      <section id="about" class="card">
+        <h2>About</h2>
+        <p id="aboutText"></p>
+        <ul class="badges" id="socials"></ul>
+      </section>
+
+      <section id="experience" class="card">
+        <h2>Experience</h2>
+        <div id="experienceList" class="timeline"></div>
+      </section>
+
+      <section id="projects" class="card">
+        <h2>Projects</h2>
+        <div id="projectsGrid" class="grid"></div>
+      </section>
+
+      <section id="skills" class="card">
+        <h2>Skills</h2>
+        <div id="skillsWrap" class="skill-groups"></div>
+      </section>
+
+      <section id="education" class="card">
+        <h2>Education</h2>
+        <ul id="educationList" class="edu-list"></ul>
+      </section>
+
+      <section id="contact" class="card">
+        <h2>Contact</h2>
+        <p>Email: <a id="email" href="#"></a></p>
+        <p>Location: <span id="location"></span></p>
+        <p>Open to: <span id="openTo"></span></p>
+      </section>
+    </main>
+
+    <footer class="container footer">
+      <div>&copy; <span id="year"></span> <span id="nameFooter">Rajesh Nair</span>. Built with ♥ and vanilla JS.</div>
+      <div class="muted">Deployed on GitHub Pages</div>
+    </footer>
+
+    <script src="./assets/script.js"></script>
+  </body>
+</html>

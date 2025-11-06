@@ -1,0 +1,215 @@
+{
+  "name": "Rajesh Nair",
+  "tagline": "Software Craftsman \u2192 Lead SDE \u2192 Principal \u2192 (aspiring) Architect | Distributed Systems, Observability, Java",
+  "about": "A software craftsman with a vision to develop good quality software. I have an artistic approach to make work special when it comes to delivering good quality and on time products. I believe in good design for the craft which makes development easier. Observation and analysis are core to my work. Experience across backend (J2EE, C/C++) and frontend (AngularJS, JavaScript), on Windows and Linux. Hands-on with deployments and troubleshooting on tough platforms. From design to development and leading people, challenges have been a catalyst for me to grow. I aim to keep growing with great teams and elevate my thinking to the next level.",
+  "highlights": [
+    "Leading Development Teams",
+    "Systems Design",
+    "Software Observability",
+    "Distributed Computing",
+    "Java \u2022 Spring Boot",
+    "C/C++ \u2022 Linux"
+  ],
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "icon": "fa-brands fa-linkedin",
+      "url": "https://www.linkedin.com/in/rajesh2tech/"
+    },
+    {
+      "label": "GitHub",
+      "icon": "fa-brands fa-github",
+      "url": "https://github.com/rajeshnair2490"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Lead Software Development Engineer",
+      "company": "eQ Technologic",
+      "period": "Mar 2025 \u2014 Present (9 mos)",
+      "location": "Pune, Maharashtra, India (Hybrid)",
+      "highlights": [
+        "Leading development teams across services and components.",
+        "Driving distributed computing initiatives and platform improvements.",
+        "Establishing observability and monitoring best practices (metrics, logs, traces)."
+      ],
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "Distributed Systems",
+        "Observability"
+      ]
+    },
+    {
+      "role": "Principal Software Engineer",
+      "company": "eQ Technologic",
+      "period": "May 2021 \u2014 Present (4 yrs 7 mos)",
+      "location": "Pune, Maharashtra, India",
+      "highlights": [
+        "Architecture and delivery leadership for core products.",
+        "Mentored engineers and improved engineering practices.",
+        "Partnered with stakeholders to align roadmap with customer needs."
+      ],
+      "stack": [
+        "Java",
+        "System Design",
+        "Leadership"
+      ]
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "eQ Technologic",
+      "period": "Jun 2016 \u2014 Apr 2021 (4 yrs 11 mos)",
+      "location": "Pune, Maharashtra, India",
+      "highlights": [
+        "Developed and deployed product features end-to-end.",
+        "Resolved deployment issues and streamlined release processes."
+      ],
+      "stack": [
+        "Java",
+        "J2EE",
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "BBD",
+      "period": "Jan 2016 \u2014 Jun 2016 (6 mos)",
+      "location": "",
+      "highlights": [
+        "Developed, deployed, and maintained existing software systems."
+      ],
+      "stack": [
+        "Java",
+        "Maintenance",
+        "Deployment"
+      ]
+    },
+    {
+      "role": "Senior Software Developer",
+      "company": "AccelTree Software Pvt. Ltd",
+      "period": "Dec 2012 \u2014 Dec 2015 (3 yrs 1 mo)",
+      "location": "Pune, India",
+      "highlights": [
+        "Developed, deployed, and maintained software solutions.",
+        "Client communication and support with minimal supervision.",
+        "Collaborated effectively within cross-functional teams."
+      ],
+      "stack": [
+        "Java",
+        "C++",
+        "Oracle SQL"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Enterprise Integrations & Observability Enablement",
+      "description": "Introduced distributed tracing, metrics, and logging foundations across services to improve reliability and debuggability.",
+      "link": "",
+      "tags": [
+        "Observability",
+        "Tracing",
+        "Metrics",
+        "Logging"
+      ]
+    },
+    {
+      "name": "Product Delivery & Deployment Streamlining",
+      "description": "Automated and standardized deployment workflows, reducing time-to-release and failures in difficult platform environments.",
+      "link": "",
+      "tags": [
+        "Deployment",
+        "CI/CD",
+        "Reliability"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "group": "Programming",
+      "items": [
+        "Core Java",
+        "Java",
+        "C",
+        "C++",
+        "SQL",
+        "JavaScript"
+      ]
+    },
+    {
+      "group": "Frameworks & Platforms",
+      "items": [
+        "Spring Boot",
+        "J2EE",
+        "Servlets",
+        "JSP",
+        "AngularJS",
+        "Tomcat",
+        "JBoss",
+        "WebSphere",
+        "Eclipse"
+      ]
+    },
+    {
+      "group": "Databases",
+      "items": [
+        "Oracle",
+        "Oracle SQL",
+        "MySQL"
+      ]
+    },
+    {
+      "group": "OS & Infra",
+      "items": [
+        "Linux",
+        "Red Hat Linux",
+        "AIX",
+        "Windows"
+      ]
+    },
+    {
+      "group": "Observability & Delivery",
+      "items": [
+        "Software Observability",
+        "Agile Methodologies",
+        "Customer Engagement"
+      ]
+    },
+    {
+      "group": "Other",
+      "items": [
+        "HTML",
+        "CSS",
+        "XML",
+        "Team Leadership",
+        "Systems Design",
+        "Leading Development Teams"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Engineering (B.E.), Computer Engineering",
+      "institution": "MIT College of Engineering",
+      "period": "2008 \u2014 2012",
+      "notes": "Committee member of Tesla (National Level event). Presented paper on 3D visualization of web search. Tree plantation & blood donation camps. Project on Sendmail MTA."
+    },
+    {
+      "title": "H.S.C, Science",
+      "institution": "Jai Hind Junior College",
+      "period": "2007 \u2014 2008",
+      "notes": "Tree plantation, IUCCA visit, blood donation. Strong in Mathematics and Physics."
+    },
+    {
+      "title": "S.S.C, Science",
+      "institution": "Jai Hind High School",
+      "period": "2005 \u2014 2006",
+      "notes": "Tree plantation, blood donation camp, mimicry."
+    }
+  ],
+  "email": "your.email@example.com",
+  "location": "Pune, Maharashtra, India",
+  "open_to": "Architect roles, distributed systems, microservices"
+}
