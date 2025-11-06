@@ -39,6 +39,15 @@ h2{margin:.2rem 0 1rem;font-size:22px}
 .skill-groups .group{padding:14px;border:1px solid var(--border);border-radius:14px;background:#0e141b}
 .edu-list{list-style:none;padding-left:0;display:flex;flex-direction:column;gap:10px}
 .edu-item{padding:14px;border:1px solid var(--border);border-radius:14px;background:#0e141b}
+.arch-section figure { margin: 0; }
+.arch-section img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+.arch-section figcaption { margin-top: 10px; color: var(--muted); font-size: 14px; }
 /* Mobile tweaks */
 @media (max-width:600px){
   .topnav a{margin-bottom:8px;display:inline-block}
