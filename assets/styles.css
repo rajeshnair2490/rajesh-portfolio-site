@@ -39,10 +39,15 @@ h2{margin:.2rem 0 1rem;font-size:22px}
 .skill-groups .group{padding:14px;border:1px solid var(--border);border-radius:14px;background:#0e141b}
 .edu-list{list-style:none;padding-left:0;display:flex;flex-direction:column;gap:10px}
 .edu-item{padding:14px;border:1px solid var(--border);border-radius:14px;background:#0e141b}
+/* Keep architecture image neatly contained */
+.arch-section { overflow: hidden; }
 .arch-section figure { margin: 0; }
 .arch-section img {
-  width: 100%;
+  display: block;
+  max-width: 100%;
   height: auto;
+  max-height: 520px;     /* keeps it from getting too tall */
+  object-fit: contain;   /* never stretches */
   border-radius: 16px;
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
