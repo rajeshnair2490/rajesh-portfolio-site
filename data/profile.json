@@ -112,7 +112,54 @@
         "Observability",
         "Tracing",
         "Metrics",
-        "Logging"
+        "Logging",
+		"OpenTelemetry Collector",
+		"Prometheus",
+		"Grafana",
+		"Tempo",
+		"Loki",
+		"New Relic"
+      ]
+    },
+	{
+      "name": "Data execution Engine",
+      "description": "An execution engine or a data pipeline to capture execution plans, optimize plans and execute efficient pipelines",
+      "link": "",
+      "tags": [
+        "Data execution",
+        "Data pipeline",
+        "Apache Spark",
+		"Apache Calcite"
+      ]
+    },
+	{
+      "name": "Generic Migration and Integration Solution",
+      "description": "Complete pipeline to migrate data from one system to any other system, From mapping data and capturing actions. Generation action plans for the migration and execution based on the resources allocated",
+      "link": "",
+      "tags": [
+        "Data Migration",
+        "Data Integration",
+        "PLM"
+      ]
+    },
+	{
+      "name": "Accord based insurance webservice invocator",
+      "description": "Standardize records based on the customer profile and insurace to generate proposals and payment integration system online.",
+      "link": "",
+      "tags": [
+        "Insurance",
+        "Accord",
+        "Payment integration"
+      ]
+    },
+	{
+      "name": "FRED",
+      "description": "An application to process data from across banking to insurance domains. The executor engine to handle large data swiftly.",
+      "link": "",
+      "tags": [
+        "Banking",
+        "Insurance",
+        "Data mapping"
       ]
     },
     {
